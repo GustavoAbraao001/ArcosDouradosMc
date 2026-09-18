@@ -25,8 +25,6 @@ O projeto reúne diferentes sistemas em Unity, conectando navegação, perfil, p
 - Feedback visual e sonoro para interação
 - Transições entre telas
 
-Os produtos do cardápio são estruturados com `ScriptableObject`, enquanto gerenciadores independentes controlam dados, navegação e apresentação da interface. :contentReference[oaicite:3]{index=3} :contentReference[oaicite:4]{index=4}
-
 ## Destaques técnicos
 
 O projeto aplica conceitos de programação orientada a objetos, componentes da Unity, gerenciamento de estado, persistência de dados e separação de responsabilidades entre sistemas.
